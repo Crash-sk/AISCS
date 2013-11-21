@@ -1,4 +1,0 @@
-AISCS
-=====
-
-CS website project
